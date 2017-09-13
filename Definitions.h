@@ -1,5 +1,5 @@
-#ifndef Header1
-#define Header1
+#ifndef Definitions
+#define Definitions
 
 #include <vector>
 #include <SDL.h>

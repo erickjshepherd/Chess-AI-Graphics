@@ -2,15 +2,11 @@
 #include "stdafx.h"
 #include <stdio.h>
 #include <iostream>
-#include "Header1.h"
+#include "Definitions.h"
 #include "windows.h"
 #include "Color.h"
-#include <string>
-#include <ctime>
-#include <vector>
 #include <SDL.h>
 #include <SDL_image.h>
-#include <string>
 
 #undef main
 
