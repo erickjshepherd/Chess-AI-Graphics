@@ -3,8 +3,7 @@
 
 #include <SDL.h>
 #include <SDL_image.h>
-#include "Definitions.h"
-#include <string>       
+#include "Definitions.h"   
 #include <iostream>     
 #include <sstream>      
 
