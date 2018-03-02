@@ -1,10 +1,10 @@
 #ifndef Definitions
 #define Definitions
 
-#include <vector>
 #include <SDL.h>
 #include <SDL_image.h>
 #include "Window.h"
+#include <vector>
 
 using namespace std;
 

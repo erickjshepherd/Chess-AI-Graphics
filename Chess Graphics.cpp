@@ -8,6 +8,7 @@
 #include <SDL.h>
 #include <SDL_image.h>
 
+
 #undef main
 
 #define Depth 5 // Sets the depth the alpha beta function will search
