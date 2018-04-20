@@ -1,0 +1,15 @@
+﻿  Chess Graphics.cpp
+Chess Graphics.cpp(1670): warning C4305: 'argument': truncation from 'void (__cdecl *)(int)' to 'bool'
+Chess Graphics.cpp(1781): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Chess Graphics.cpp(1786): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Chess Graphics.cpp(1923): warning C4305: 'argument': truncation from 'void (__cdecl *)(int)' to 'bool'
+Chess Graphics.cpp(1873): warning C4101: 'm': unreferenced local variable
+Chess Graphics.cpp(1874): warning C4101: 'n': unreferenced local variable
+Chess Graphics.cpp(2063): warning C4551: function call missing argument list
+Chess Graphics.cpp(2064): warning C4551: function call missing argument list
+  Generating code
+  0 of 218 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Chess Graphics.vcxproj -> C:\Users\Erick\source\repos\Chess Graphics\Release\Chess Graphics.exe
